@@ -1,0 +1,6 @@
+*.log
+ssl/
+test
+test/*
+.idea/
+__pycache__/
